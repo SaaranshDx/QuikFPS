@@ -1,4 +1,4 @@
-# QuikFPS v1.1
+# QuikFPS v1.1 (beta)
 QuikFPS is an FPS boosting utility made for windows
 ---
 Why Quikfps?
