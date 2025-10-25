@@ -13,20 +13,6 @@ AI-powered analysis identifies and eliminates performance bottlenecks, ensuring 
 🛡️100% Safe & Secure
 Our optimization methods are completely safe, and no unnessary data is collected
 
-Change log:
----
-📦 Version v1.1 – 2nd relaease <br>
-✅ CLI interface Rewamped <br>
-✅ Added discord rich presence <br>
-✅ removed rich and keyboard nav to save resources <br>
-✅ fixed fiveM <br>
-✅ added logging <br>
-✅ removed tweaks_post.json <br>
-✅ reduces startup time <br>
-✅ added auto startup <br>
-✅ added repair category <br>
-✅ Added 100+ new tweaks <br>
-✅ Added network tweaks <br>
 ---
 FAQs:
 ---
@@ -42,3 +28,18 @@ Yes! QuikFPS is fully safe to run on your maching only necessary data is collect
 
 ❓ why there are no releases
 There will be releases as soon as we close the beta phase and do a full release
+
+Change log:
+---
+📦 Version v1.1 – 2nd relaease <br>
+✅ CLI interface Rewamped <br>
+✅ Added discord rich presence <br>
+✅ removed rich and keyboard nav to save resources <br>
+✅ fixed fiveM <br>
+✅ added logging <br>
+✅ removed tweaks_post.json <br>
+✅ reduces startup time <br>
+✅ added auto startup <br>
+✅ added repair category <br>
+✅ Added 100+ new tweaks <br>
+✅ Added network tweaks <br>
