@@ -1,0 +1,9 @@
+rich
+typing
+pynput
+jsonify
+psutil
+requests
+gputil
+pypresence
+colorama

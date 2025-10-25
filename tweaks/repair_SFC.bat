@@ -1,0 +1,3 @@
+@echo off
+echo Starting SFC scan and repair...
+sfc /scannow
