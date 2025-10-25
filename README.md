@@ -1,7 +1,7 @@
 # QuikFPS v1.1
 QuikFPS is an FPS boosting utility made for windows
 ---
-# 📦 change log 
+Change log:
 📦 Version v1.1 – 2nd relaease
 ✅ CLI interface Rewamped <br>
 ✅ Added discord rich presence <br>
