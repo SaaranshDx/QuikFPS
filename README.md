@@ -3,14 +3,14 @@ QuikFPS is an FPS boosting utility made for windows
 ---
 Why Quikfps?
 ---
-⚡Solid Performance Gains
+⚡Solid Performance Gains <br><br>
 Boost your FPS by up to 40% with our reliable optimization methods. Not the highest in the market, but consistently effective and completely free.
 
 🎯Smart Optimization
 
 AI-powered analysis identifies and eliminates performance bottlenecks, ensuring optimal resource allocation for your games.
 
-🛡️100% Safe & Secure
+🛡️100% Safe & Secure <br><br>
 Our optimization methods are completely safe, and no unnessary data is collected
 
 ---
