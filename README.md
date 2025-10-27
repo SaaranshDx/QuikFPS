@@ -1,5 +1,6 @@
 # QuikFPS v1.1 (beta)
-QuikFPS is an FPS boosting utility made for windows
+QuikFPS is an FPS boosting utility made for windows <br>
+> ⚠️ **WARNING:** Quikfps is not any malicious software we have recently been open sourced because of many aligations of our software being malicious 
 ---
 Why Quikfps?
 ---
